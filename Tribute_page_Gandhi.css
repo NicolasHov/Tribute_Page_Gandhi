@@ -1,0 +1,39 @@
+body {
+  background-color : grey;
+  margin : 10% 10% 0% 10%;
+}
+.jumbotron h1, .jumbotron h2 {
+        font-family: 'Lobster', cursive;
+  }
+ 
+  p {
+    font-size: 16px;
+    font-family: Helvetica, arial, sans-serif;
+  }
+
+  .grey-border {
+    border-color: grey;
+    border-width: 3px;
+    border-style: solid;
+  }
+
+.jumbotron {
+  background-color: white;
+}
+
+.smaller-image {
+  width : 400px;
+}
+.thumbnail {
+  margin : 0% 10% 0% 10%;
+  background-color: grey;
+  font-color: black;
+}
+.mb-0 {
+  font-style: oblique;
+}
+footer {
+  color : grey;
+  font-family : Arial;
+  font-size : 100%;
+}
